@@ -3,6 +3,8 @@ Half hourly speed tests for a Telstra residential cable internet connection in B
 
 Data gathered using Ookla® [speedtest.net](https://www.speedtest.net/) services.
 
+---
+
 ### Data Visualized
 ![alt text](/doc/summary.png)
 

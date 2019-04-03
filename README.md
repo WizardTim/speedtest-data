@@ -1,7 +1,7 @@
 # speedtest-data
 Half hourly speed tests for a Telstra residential cable internet connection in Brisbane, Australia (EuroDOCSIS 3.0).
 
-Data gathered using Ookla® [speedtest.net](speedtest.net) services.
+Data gathered using Ookla® [speedtest.net](https://www.speedtest.net/) services.
 
 ### Data Visualized
 ![alt text](/doc/summary.png)

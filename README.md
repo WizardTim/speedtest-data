@@ -8,7 +8,8 @@ Data gathered using Ookla® [speedtest.net](https://www.speedtest.net/) services
 ---
 
 ### Data Visualized
-![alt text](/doc/summary.png)
+![Whole Dataset Times Series Plot](/doc/summary.png)
+![Time of Day Download Heatmap](/doc/download_heatmap_1.png)
 
 ---
 

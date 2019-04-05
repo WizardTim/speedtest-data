@@ -1,7 +1,7 @@
 # speedtest-data
 Half hourly speed tests for a Telstra residential cable internet connection in Brisbane, Australia (EuroDOCSIS 3.0).
 
-Data has 91.7% coverage but 8.3% is missing due to downtime.
+Data has 91.7% coverage but 8.3% is missing due to server downtime, failed tests and blackouts.
 
 Data gathered using Ookla® [speedtest.net](https://www.speedtest.net/) services.
 
